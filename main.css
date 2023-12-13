@@ -9,3 +9,13 @@ h1 {
 #diablo4 {
     color:rgb(255, 0, 0)
     }
+
+.a {
+    display: flex;
+    color:darkblue;
+} 
+
+.container {
+    width: 1366px;
+    margin: 0 auto ;
+}
